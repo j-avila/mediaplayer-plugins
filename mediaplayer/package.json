@@ -1,0 +1,21 @@
+{
+	"name": "@j-avila/platzi-mediaplayer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "lib/MediaPlayer.js",
+	"scripts": {
+		"build": "tsc src/**/*.ts src/plugins/*.ts src/plugins/**/*.ts --outDir lib",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/j-avila/mediaplayer-plugins.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/j-avila/mediaplayer-plugins/issues"
+	},
+	"homepage": "https://github.com/j-avila/mediaplayer-plugins#readme"
+}
